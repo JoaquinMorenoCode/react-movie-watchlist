@@ -1,0 +1,48 @@
+ 
+
+.table{
+
+    color: #dfdfdf !important;
+
+    
+}
+
+
+ 
+td,th{   
+   width: 10%; 
+   padding: 0px !important;
+   text-align: left !important;  
+}
+
+td{
+    height: 200px;
+}
+
+
+.btn-primary{
+    background-color: #978268 !important;
+    border-color: #323232 !important;
+    color: #dfdfdf !important;
+    font-weight: bolder !important;
+
+}
+
+
+.overviewColumn{
+    width: 35% !important;
+}
+
+.imgColumn{
+    width: 35% !important;
+}
+
+
+
+
+
+ 
+
+
+ 
+ 
